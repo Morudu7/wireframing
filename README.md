@@ -1,9 +1,9 @@
 # WIREFRAMING
 
-## What is wireframing
+## 📌What is wireframing
 Wireframing is a crucial step in the design process, serving as a blueprint or skeletal framework of a website or application. It outlines the basic structure and layout without delving into detailed design elements like colors, fonts, or images. Wireframes focus on the placement of elements, navigation flow, and overall user interface structure.
 
-## The importance of wireframing
+## 🚀The importance of wireframing
 1. ### Clarifies idears and concepts
   - Wireframing helps translate abstract ideas into tangible representations. It allows designers and stakeholders to visualize the layout and structure of a project early in the process.
 2. ### Facilitates communication
@@ -21,13 +21,13 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 8. ### Focuses on functionality and user experience
     - By stripping away visual design elements, wireframes allow designers to concentrate on the functionality and user experience, ensuring the product is intuitive and user-friendly.
 
-## Key elements in wireframing
+## ✨Key elements in wireframing
 - Layout Structure: Defines the arrangement of elements on the page.
 - Navigation: Shows how users will move through the site or application
 - Content Placement: Indicates where text, images, and other content will be positioned.
 - Functionality: Outlines key functionalities and interactions.
 
-## Types of Wireframes.
+## 📚Types of Wireframes.
 There are two types of wireframes, which are:
 1.Low-Fidelity Wireframes
   - Low-fidelity wireframes are used in the early stages of the design process, primarily for ideation and conceptualization
@@ -63,7 +63,7 @@ The wireframe used in the example link is the high fidelity wire frame because i
 - Working out pixel-perfect details and visual hierarchy
 - allows for meaningful feedback on specific UI elements and interactions.
 
-## Popular wireframing tools.
+## 🎨Popular wireframing tools.
 - Figma 🏆
 - Miro
 - Adobe XD
@@ -87,7 +87,7 @@ Figma has become a leading, all-in-one design platform and is highly recommended
 2. Seamless Transition: As an all-in-one tool, the wireframe created in Figma can seamlessly evolve into a high-fidelity mockup and final visual design without needing to switch software, simplifying the entire design-to-development pipeline.
 3. Real-Time Alignment: The collaborative nature ensures that the entire team and all stakeholders are always viewing the latest version of the wireframe, minimizing misunderstandings and speeding up decision-making.
 
-## Benefits of wireframing from a software development perspective.
+## ⛳Benefits of wireframing from a software development perspective.
 
 | Benefit | Exaplanation |
 | ---- | ---- |
@@ -105,3 +105,14 @@ Wireframes serve as the structural skeleton of the product, ensuring the design 
 Wireframes act as a common visual language for all stakeholders.
 - Team Collaboration: Tools like Figma enable "real-time collaboration," allowing multiple team members to co-edit and ensuring everyone is "always in sync." Features like commenting allow the team to "Leave comments directly on specific wireframe elements, facilitating clear feedback."
 - Stakeholder Alignment: They help the client and non-designers understand the concept because they "do not focus on details but see places" for future data. This facilitates "zero misunderstandings, quick decisions, and implementation without unnecessary setbacks." It also allows you to "get feedback from stakeholders and potential users" very early on.
+
+## 📝 Real-World wireframing scenario.
+### Scenario: E-commerce Checkout Process.
+A team was designing a new mobile e-commerce checkout flow. The initial wireframe for the payment screen, created in a tool like Figma, placed the 'Apply Discount Code' field below the main credit card entry section, near the 'Review Order' button.
+- Usability Issue Identified: During early click-through testing of the low-fidelity wireframe, users repeatedly missed the discount field. They completed their payment information, scrolled past the discount field without seeing it as a distinct step, and proceeded to the final summary, only to realize they hadn't applied their code. This led to frustration and a high potential for cart abandonment.
+- Resolution and Impact:
+    - Resolution: The team revised the wireframe. They moved the 'Apply Discount Code' field to a prominent position at the very top of the payment screen, just below the order summary. They also added a simple, high-contrast, expandable section labeled "Have a coupon code?"
+    - Impact on Final Product: This change, made in minutes on the wireframe, ensured the final product's checkout process was intuitive. The final product saw an increase in discount code usage and a reduction in  customer support queries related to missing coupon fields, resulting in a smoother user experience and higher conversion rates.
+
+### ✅ Role of wireframing
+The scenario demonstrates that wireframing's primary role is to prioritize and test the user experience (UX) and flow before visual design and coding begin. By focusing only on structure, it quickly surfaces critical issues like poor content hierarchy and confusing navigation, ensuring the final product is logical, efficient, and user-friendly.
