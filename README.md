@@ -36,8 +36,8 @@ There are two types of wireframes, which are:
 
 ### Difference between Low-fidelity and High-fidelity wireframes
 
-| --- | ---- | ---- |
 | Feature |	Low-Fidelity Wireframes (Lo-Fi) |	High-Fidelity Wireframes (Hi-Fi) |
+| --- | ---- | ---- |
 |Level of Detail | Minimal and basic, focused on structure.	| Highly detailed, closely resembling the final product. |
 | Visual Appearance | Rough, sketchy, often black-and-white or grayscale. Uses simple shapes (boxes, lines) and placeholder text. | Polished, includes actual colors, typography, real imagery/content, and branding elements. |
 | Interactivity | Static (not clickable), focuses on showing flow with annotations or flowcharts. | Often interactive (clickable links, buttons) to simulate the user |
@@ -62,3 +62,28 @@ The wireframe used in the example link is the high fidelity wire frame because i
 - Providing a clear, detailed blueprint to the engineering team, complete with specs for dimensions, colors, typography, and interactive behavior.
 - Working out pixel-perfect details and visual hierarchy
 - allows for meaningful feedback on specific UI elements and interactions.
+
+## Popular wireframing tools.
+- Figma 🏆
+- Miro
+- Adobe XD
+- Sketch
+- Balsamiq
+- Axure RP
+- InVision
+
+### Recommended Tool: Figma
+Figma has become a leading, all-in-one design platform and is highly recommended for wireframing due to its robust feature set and collaborative nature.
+
+#### Figma Features for Wireframing
+- Cloud-Based Collaboration: Figma operates entirely in the browser (with desktop apps also available), allowing multiple team members (designers, product managers, developers) to collaborate and edit the same file in real-time. This streamlines the feedback and iteration process.
+- Vector Drawing Tools: It provides simple, intuitive tools for creating basic shapes, text, and placeholders, which are the core elements of a wireframe. Keyboard shortcuts make the process fast.
+- Components and Design Systems: You can create reusable components (like buttons, navigation bars, cards) to maintain consistency and speed up the process. Many free wireframe kits and templates are available in the Figma Community.
+- Interactive Prototyping: Designers can easily turn static wireframes into clickable prototypes by linking frames together. This allows for early usability testing and a better understanding of the user flow.
+- Commenting and Feedback: Stakeholders can leave comments directly on specific elements within the design file, ensuring feedback is targeted and clear.
+
+#### Why Figma is Useful for Wireframing
+1. Speed and Agility: The simple tools and component reusability allow for rapid iteration and testing of different structural concepts.
+2. Seamless Transition: As an all-in-one tool, the wireframe created in Figma can seamlessly evolve into a high-fidelity mockup and final visual design without needing to switch software, simplifying the entire design-to-development pipeline.
+3. Real-Time Alignment: The collaborative nature ensures that the entire team and all stakeholders are always viewing the latest version of the wireframe, minimizing misunderstandings and speeding up decision-making.
+
