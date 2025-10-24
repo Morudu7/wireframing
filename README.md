@@ -87,3 +87,21 @@ Figma has become a leading, all-in-one design platform and is highly recommended
 2. Seamless Transition: As an all-in-one tool, the wireframe created in Figma can seamlessly evolve into a high-fidelity mockup and final visual design without needing to switch software, simplifying the entire design-to-development pipeline.
 3. Real-Time Alignment: The collaborative nature ensures that the entire team and all stakeholders are always viewing the latest version of the wireframe, minimizing misunderstandings and speeding up decision-making.
 
+## Benefits of wireframing from a software development perspective.
+
+| Benefit | Exaplanation |
+| ---- | ---- |
+| Saves Time and Cost |	Wireframes focus on structure and functionality early in the project. Making changes in a low-fidelity wireframe is quick, avoiding expensive rework later in the visual design or development phase. |
+| Clarity on Features	| It helps "Prioritize the most important elements and features" by using simple placeholders and grayscale, preventing the screen from becoming "an overloaded aircraft cockpit" with unnecessary visual elements. |
+| Early Usability Testing |	By creating simple, interactive prototypes, you can "test the flow of their designs" and "identify potential usability issues" before any code is written, which helps mitigate risk. |
+| Developer Handoff |	High-fidelity wireframes act as a "detailed blueprint for developers," which "streamlines the development process" by clearly defining the layout, hierarchy, and interaction of elements. |
+
+### 🧭 Guiding the design process
+Wireframes serve as the structural skeleton of the product, ensuring the design proceeds logically.
+- Defines Structure and Flow: They are a "visual plan" that dictates the "overall structure, user flow, and interactions." This forces the team to answer critical questions like, "What information do we show?" and "Should there be a settings icon in the upper right corner, or would it be better to use a hamburger menu?"
+- Focuses on Function: By intentionally keeping wireframes simple and low-fidelity (using "rectangles instead of widgets, placeholder text instead of real data, and a gray scale instead of colors"), they direct attention solely to content placement and functionality, rather than distracting visual aesthetics.
+
+### 🗣️ Facilitating communication
+Wireframes act as a common visual language for all stakeholders.
+- Team Collaboration: Tools like Figma enable "real-time collaboration," allowing multiple team members to co-edit and ensuring everyone is "always in sync." Features like commenting allow the team to "Leave comments directly on specific wireframe elements, facilitating clear feedback."
+- Stakeholder Alignment: They help the client and non-designers understand the concept because they "do not focus on details but see places" for future data. This facilitates "zero misunderstandings, quick decisions, and implementation without unnecessary setbacks." It also allows you to "get feedback from stakeholders and potential users" very early on.
